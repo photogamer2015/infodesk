@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+    <metadata>
+        <title>infodesktop01</title>
+        <url>https://infodesktop01.netlify.app</url>
+        <description>Información sobre computadoras y tecnología</description>
+    </metadata>
+    
+    <content>
+        <section id="index">
+            <title>index</title>
+            <description>Página principal de InfoDesktop01</description>
+            <link>https://infodesktop01.netlify.app</link>
+        </section>
+        
+        <section id="title1">
+            <title>title2</title>
+            <description>Información sobre InfoDesktop01 y su misión</description>
+            <link>https://infodesktop01.netlify.app/#title1</link>
+        </section>
+        
+        <section id="title2">
+            <title>title2</title>
+            <description>Artículos sobre tecnología y tips para computadoras</description>
+            <link>https://infodesktop01.netlify.app/#title2</link>
+        </section>
+        
+    </content>
+</website>
+

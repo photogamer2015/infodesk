@@ -1,0 +1,17 @@
+#subir__arriba {
+  width: 100px;
+  height: 100px;
+  color: rgb(43, 213, 83);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  cursor: pointer;
+  display: none;
+}
+html {
+  scroll-behavior: smooth;
+}
