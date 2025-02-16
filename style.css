@@ -23,6 +23,7 @@ span {
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
     text-align: center;
+    background-color: rgba(18, 50, 93, 0.762);
 }
 nav ul {
     list-style: none; /* Elimina los puntos de la lista */
