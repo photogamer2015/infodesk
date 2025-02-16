@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 a:hover {
-  color: red;
+  color: white;
 }
 a {
   color: rgb(185, 255, 80);
@@ -53,7 +53,7 @@ nav ul {
   }
   
   nav li a:hover {
-    background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
+    background-color: rgb(43, 213, 83); /* Color de fondo al pasar el ratón por encima */
   }
 
 .info {
