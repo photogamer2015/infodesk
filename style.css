@@ -181,6 +181,9 @@ footer {
     width: 93.1%;
     padding: 0 50px;
   }
+  #Inicio{
+text-align: center;
+  }
   .container{
   flex-direction: column;
     position: relative;
