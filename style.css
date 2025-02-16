@@ -240,24 +240,12 @@ strong {
     flex-direction: column;
     position: relative;
     margin-left: 10%;
-    padding: 20%;
-   width: 300%;
+    padding: 10%;
+   width: 200%;
     border-radius: 10px;
     text-align: center;
     
 }
-  #Instalar{
-text-align: center;
-  }
-
-  #Inicio{
-    text-align: center;
-  }
-
-  #Top{
-    text-align: center;
-  }
-    
   
   .intro {
     position: relative;
