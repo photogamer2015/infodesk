@@ -221,6 +221,9 @@ text-align: center;
   .container {
     flex-direction: column; /* Apila las columnas verticalmente */
   }
+  footer{
+padding: 80px;
+  }
   
 }
 
