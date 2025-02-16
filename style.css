@@ -152,9 +152,9 @@ footer {
 }
 
 .containerf {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .row {
@@ -215,11 +215,6 @@ text-align: center;
   
   footer{
     text-align: right;
-  }
-
-  .containerf{
-  margin: 0 auto;
-  padding: 20px 100px;
   }
   
   
