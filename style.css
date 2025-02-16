@@ -240,8 +240,8 @@ strong {
     flex-direction: column;
     position: relative;
     margin-left: 10%;
-    padding: 50%;
-   width: 30%;
+    padding: 25%;
+   width: 50%;
     border-radius: 10px;
     text-align: center;
     
@@ -255,6 +255,10 @@ strong {
   .image-container {
     width: 100%;
     margin-left: 0;
+  }
+  footer{
+    text-align: center;
+    text-align: justify;
   }
 }
 
