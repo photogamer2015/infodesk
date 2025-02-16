@@ -151,7 +151,7 @@ strong {
 .footer {
     position: relative;
   width: 93.1%;
- background-color: #4c4c4c;
+ background-color: black;
   min-height: 100px;
   padding: 15px 50px;
   display: flex;
@@ -256,14 +256,6 @@ strong {
     width: 100%;
     margin-left: 0;
   }
-  .footer {
-            padding: 50px 0;
-            margin-top: 10px;
-        }
-      .footer .container {
-            flex-direction:row;
-            align-items: center;
-        }
 }
 
 @media (max-width: 900px) {
