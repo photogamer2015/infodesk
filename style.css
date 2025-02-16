@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 a:hover {
-  color: rgb(43, 213, 83);
+  color: rgba(18, 50, 93, 0.762);
 }
 a {
   color: rgb(185, 255, 80);
@@ -23,7 +23,7 @@ span {
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
     text-align: center;
-    background-color: rgba(18, 50, 93, 0.762);
+    background-color: rgb(43, 213, 83);
 }
 nav ul {
     list-style: none; /* Elimina los puntos de la lista */
