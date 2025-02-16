@@ -249,25 +249,21 @@ strong {
   #Top{
     text-align: center;
     margin-left: 10px;
-    padding:  10px 37px;
+    padding:  10px 100px;
   }
   #Inicio{
 text-align: center;
     margin-left: 10px;
-    padding:  10px 37px;
+    padding:  10px 100px;
   }
 
   #Instalar{
 text-align: center;
     margin-left: 10px;
-    padding:  10px 37px;
+    padding:  10px 100px;
 
   }
     
-nav ul{
-    padding: 15px 100px;
-    margin-left: 25px;
-}
   
   .intro {
     position: relative;
@@ -277,6 +273,14 @@ nav ul{
     width: 100%;
     margin-left: 0;
   }
+  .footer {
+            padding: 10px 0;
+            margin-top: 10px;
+        }
+      .footer .container {
+            flex-direction:row;
+            align-items: center;
+        }
 }
 
 @media (max-width: 900px) {
