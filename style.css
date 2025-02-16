@@ -226,18 +226,21 @@ strong {
     padding: 0 50px;
   }
 
-  .navbar {
+ .navbar {
     flex-direction: column;
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .button {
-    margin-left: 20%;
-  }
-  .button2 {
-    margin-left: 24%;
-    margin-top: 15px;
-  }
+    position: relative;
+    margin-left: 10%;
+    
+    border-radius: 10px;
+    text-align: center;
+    
+}
+    
+nav ul{
+    padding: 15px 45px;
+    margin-left: 25px;
+}
+  
   .intro {
     position: relative;
     width: 93.1%;
