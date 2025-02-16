@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 a:hover {
-  color: red;
+  color: rgb(43, 213, 83);
 }
 a {
   color: rgb(185, 255, 80);
