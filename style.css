@@ -232,7 +232,6 @@ strong {
   flex-direction: column;
     position: relative;
     margin-left: 10%;
-    padding:50%;
     border-radius: 10px;
     text-align: center
   }
@@ -241,7 +240,7 @@ strong {
     flex-direction: column;
     position: relative;
     margin-left: 10%;
-    padding: 50px;
+    padding: 50%;
     border-radius: 10px;
     text-align: center;
     
