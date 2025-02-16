@@ -225,6 +225,14 @@ strong {
     width: 93.1%;
     padding: 0 50px;
   }
+  .container{
+  flex-direction: column;
+    position: relative;
+    margin-left: 10%;
+    
+    border-radius: 10px;
+    text-align: center
+  }
 
  .navbar {
     flex-direction: column;
