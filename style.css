@@ -232,7 +232,7 @@ strong {
   flex-direction: column;
     position: relative;
     margin-left: 10%;
-    
+    padding:50%;
     border-radius: 10px;
     text-align: center
   }
@@ -241,28 +241,11 @@ strong {
     flex-direction: column;
     position: relative;
     margin-left: 10%;
-    padding: 15px;
+    padding: 50px;
     border-radius: 10px;
     text-align: center;
     
 }
-  #Top{
-    text-align: center;
-    margin-left: 10px;
-    padding:  10px 100px;
-  }
-  #Inicio{
-text-align: center;
-    margin-left: 10px;
-    padding:  10px 100px;
-  }
-
-  #Instalar{
-text-align: center;
-    margin-left: 10px;
-    padding:  10px 100px;
-
-  }
     
   
   .intro {
@@ -274,7 +257,7 @@ text-align: center;
     margin-left: 0;
   }
   .footer {
-            padding: 10px 0;
+            padding: 50px 0;
             margin-top: 10px;
         }
       .footer .container {
