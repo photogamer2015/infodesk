@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 a:hover {
-  color: rgba(18, 50, 93, 0.762);
+  color: red;
 }
 a {
   color: rgb(185, 255, 80);
@@ -35,7 +35,7 @@ nav ul {
   }
 
   nav ul li {
-    border: 1px solid #C19A6B; /* Ajusta el grosor y color según necesites */
+    border: 1px solid rgba(18, 50, 93, 0.762); /* Ajusta el grosor y color según necesites */
   }
 
   nav li {
@@ -44,7 +44,7 @@ nav ul {
   
   nav li a {
     display: block; /* Convierte los enlaces en elementos de bloque para que ocupen todo el espacio del contenedor <li> */
-    color: white; /* Color de texto */
+    color: black; /* Color de texto */
     text-align: center; /* Centra el texto */
     padding: 15px 15px; /* Espacio interno alrededor del texto */
     text-decoration: none; /* Elimina el subrayado de los enlaces */
