@@ -213,10 +213,14 @@ text-align: center;
     margin-left: 0;
   }
   
-  footer{
-    text-align: right;
+  .column {
+    flex: 1 1 100%; /* Ocupa todo el ancho en móviles */
+    margin-bottom: 20px;
   }
   
+  .container {
+    flex-direction: column; /* Apila las columnas verticalmente */
+  }
   
 }
 
