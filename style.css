@@ -17,8 +17,12 @@ span {
   padding: 20px;
   margin-top: 1px;
 }
-.navbar {
-  overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */
+
+  .navbar {
+    border-radius: 20px; /* Bordes redondeados */
+    overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
+    position: relative;
+    text-align: center;
 }
 
 .info {
