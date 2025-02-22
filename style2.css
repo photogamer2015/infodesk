@@ -209,6 +209,11 @@ strong {
 text-align: center;
     margin-left: 40px;
   }
+  
+  .presentation {
+    width: 93,1%;
+  }
+  
   .container{
   flex-direction: column;
     position: relative;
