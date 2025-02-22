@@ -203,12 +203,14 @@ strong {
   }
   #back {
     width: 93.1%;
+    position: relative;
    
   }
   #Inicio{
 text-align: center;
     margin-left: 50px;
     width: 93,1%
+    position: relative;
   }
   
   .presentation {
