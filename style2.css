@@ -1,5 +1,8 @@
-body {
+.resolution {
   background-color: black;
+  text-align: center;
+  width: 100%;
+  
 }
 a:hover {
   color: white;
@@ -191,11 +194,6 @@ strong {
     color: #bbb;
     padding: 10px 0;
     margin-top: 20px;
-}
-
-.resolution {
-  width: 100%;
-  text-align: center;
 }
 
 @media (max-width: 800px) {
