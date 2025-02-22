@@ -222,7 +222,7 @@ text-align: center;
  .navbar {
     flex-direction: column;
     position: relative;
-    margin-left: 1%;
+    margin-left: 5px;
     padding: 10%;
     border-radius: 10px;
     text-align: center;
