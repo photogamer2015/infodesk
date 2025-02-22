@@ -220,7 +220,8 @@ text-align: center;
     position: relative;
     margin-left: 20%;
     border-radius: 10px;
-    text-align: center
+    text-align: center;
+     width: 93.1%;
   }
 
  .navbar {
