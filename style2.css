@@ -203,14 +203,14 @@ strong {
   }
   #back {
     width: 93.1%;
-    position: relative;
+    padding: 0 50px;
    
   }
-  #Inicio{
+  .Inicio{
 text-align: center;
     margin-left: 50px;
     width: 93,1%
-    position: relative;
+   padding: 0 50px;
   }
   
   .presentation {
@@ -241,6 +241,7 @@ text-align: center;
     position: relative;
     width: 93.1%;
   }
+  
   .image-container {
     width: 100%;
     margin-left: 0;
