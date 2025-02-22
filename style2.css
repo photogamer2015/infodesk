@@ -60,7 +60,7 @@ nav ul {
 .info {
   text-align: center;
   position: relative;
-  width: 93.1%;
+  width: 100%;
   padding: 0 50px;
   color: rgb(43, 213, 83);
 }
@@ -68,7 +68,7 @@ nav ul {
   background-color: rgba(18, 50, 93, 0.762);
   color: aliceblue;
   margin-bottom: 1px;
-  width: 93.1%;
+  width: 100%;
   padding: 0 50px;
 }
 .button {
@@ -96,7 +96,7 @@ nav ul {
 .intro {
   text-align: center;
   text-align: justify;
-  width: 93.1%;
+  width: 100%;
   background-color: rgba(18, 50, 93, 0.762);
   color: aliceblue;
   padding: 50px;
