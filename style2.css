@@ -199,11 +199,11 @@ strong {
 @media (max-width: 800px) {
   .info {
     width: 93.1%;
-    padding: 0 50px;
+    
   }
   #back {
     width: 93.1%;
-    padding: 0 50px;
+   
   }
   #Inicio{
 text-align: center;
