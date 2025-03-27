@@ -1,8 +1,10 @@
-.resolution {
-  background-color: aliceblue;
-  text-align: center;
-  width: 100%;
-  
+.resolution{
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(
+    aliceblue,
+    rgb(165, 169, 173),
+    rgb(88, 89, 89));
 }
 a:hover {
   color: white;
