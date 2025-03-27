@@ -49,7 +49,7 @@ nav ul {
   ); /* Color de fondo del menú */
   overflow: hidden; /* Evita que los elementos se desborden */
   text-align: center; /* ajusta el valor según necesites */
-  margin-left: 200px;
+  margin-left: 100px;
 }
 
 nav ul li {
@@ -110,7 +110,7 @@ nav ul li a {
 .intro{
     text-align: center;
     text-align: justify;
-    background-image: linear-gradient(#897052, #5e4b31, #523623);
+    background-color: rgb(43, 213, 83);
     color: aliceblue;
     padding: 50px;
     margin: 100px;
