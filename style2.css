@@ -199,16 +199,40 @@ strong {
     margin-top: 20px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .info {
     width: 93.1%;
     
   }
-  #back {
-    width: 93.1%;
-    padding: 0 50px;
-   
+ 
+   .navbar {
+    flex-direction: column;
+    position: relative;
+    margin-right: 3em;
+    margin-left: 2em;
+    border-radius: 40px;
+    
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, Arial;
+    
+}
+    
+    
+nav ul{
+    padding: 15px 30px;
+    margin-left: 25px;
+    border-bottom: 1px solid #f5cf88;
+}
+  
+nav ul li a{
+border-bottom: 1px solid #f5cf88;
   }
+ 
+nav list:last-child {
+  border-bottom: none;
+  }
+    
   .Inicio{
 text-align: center;
     margin-left: 50px;
