@@ -19,6 +19,7 @@ span {
     max-width: 1200px;
     padding: 20px;
     margin-top: 1px;
+    margin-left: 40px;
 }
 
 
@@ -28,7 +29,6 @@ span {
     text-align: center;
 }
 nav ul {
-  margin left: 40px;
   border-radius: 25px;
   list-style: none; /* Elimina los puntos de la lista */
   padding: 0;
