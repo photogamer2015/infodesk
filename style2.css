@@ -6,6 +6,14 @@
     rgb(165, 169, 173),
     rgb(88, 89, 89));
 }
+.main {
+  background-image: linear-gradient(
+    aliceblue,
+    rgb(165, 169, 173),
+    rgb(88, 89, 89)
+  );
+}
+
 a:hover {
   color: white;
 }
