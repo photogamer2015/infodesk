@@ -209,9 +209,12 @@ strong {
 }
 
 @media (max-width: 900px) {
-  .info {
-    width: 93.1%;
-  }
+
+    .info {
+text-align: center;
+margin-left: 0.1em;
+font-family: "Times New Roman", Times, Arial;
+    }
 
     .presentation{
     border-radius: 5%;    
@@ -293,10 +296,13 @@ text-align: center;
     
 }
   
-  .intro {
+ .intro{
     position: relative;
-    width: 93.1%;
-  }
+    margin: 0px;
+    width: 100%;
+    font-family: "Times New Roman", Times, Arial;
+}
+    
   
   .image-container {
     width: 100%;
