@@ -211,8 +211,15 @@ strong {
 @media (max-width: 900px) {
   .info {
     width: 93.1%;
-    
   }
+
+    .intro{
+    position: relative;
+    margin: 0px;
+    width: 100%;
+    font-family: "Times New Roman", Times, Arial;
+}
+    
 
     .main {
   background-image: linear-gradient(
