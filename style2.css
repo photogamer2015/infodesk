@@ -213,6 +213,11 @@ strong {
     width: 93.1%;
   }
 
+    .presentation{
+    border-radius: 5%;    
+    }
+    
+
     .intro{
     position: relative;
     margin: 0px;
