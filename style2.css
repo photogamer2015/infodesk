@@ -38,8 +38,8 @@ nav ul {
     #523623
   ); /* Color de fondo del menú */
   overflow: hidden; /* Evita que los elementos se desborden */
-  text-align: center;
-  margin: 10px 5px; /* ajusta el valor según necesites */
+  text-align: center; /* ajusta el valor según necesites */
+  margin-left: 500px;
 }
 
 nav ul li {
