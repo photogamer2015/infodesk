@@ -16,15 +16,6 @@ span {
   color: rgb(43, 213, 83);
 }
 
- .container {
-    width: 100%;
-    max-width: 1200px;
-    padding: 20px;
-    margin-top: 1px;
-    margin-left: 500px;
-}
-
-
  .navbar { 
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
@@ -37,7 +28,7 @@ nav ul {
     background-color: rgba(18, 50, 93, 0.762);
   overflow: hidden; /* Evita que los elementos se desborden */
   text-align: center; /* ajusta el valor según necesites */
-  margin-left: 20px;
+  margin-left: 100px;
 }
 
 nav ul li {
@@ -261,7 +252,7 @@ font-family: "Times New Roman", Times, Arial;
     
 nav ul{
     padding: 15px 30px;
-    margin-left: 25px;
+    margin-left: 30px;
     border-bottom: 1px solid #f5cf88;
 }
   
