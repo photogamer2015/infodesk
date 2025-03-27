@@ -39,7 +39,7 @@ nav ul {
   ); /* Color de fondo del menú */
   overflow: hidden; /* Evita que los elementos se desborden */
   text-align: center; /* ajusta el valor según necesites */
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 nav ul li {
